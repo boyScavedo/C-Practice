@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 unsigned int minimum_distance(unsigned int, unsigned int, unsigned int[]);
-unsigned int maximum(unsigned int[], unsigned int);
 
 int main() {
   unsigned int perimeter, houses, distances[200000];
