@@ -1,2 +1,2 @@
 # C-Practice
-Where I put my C Codes
+Where I put my c programs
